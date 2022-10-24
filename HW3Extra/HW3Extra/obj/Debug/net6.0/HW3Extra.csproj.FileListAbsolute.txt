@@ -1,0 +1,15 @@
+D:\C#\Beetroot\Homework 3\Homework\HW3Extra\HW3Extra\bin\Debug\net6.0\HW3Extra.exe
+D:\C#\Beetroot\Homework 3\Homework\HW3Extra\HW3Extra\bin\Debug\net6.0\HW3Extra.deps.json
+D:\C#\Beetroot\Homework 3\Homework\HW3Extra\HW3Extra\bin\Debug\net6.0\HW3Extra.runtimeconfig.json
+D:\C#\Beetroot\Homework 3\Homework\HW3Extra\HW3Extra\bin\Debug\net6.0\HW3Extra.dll
+D:\C#\Beetroot\Homework 3\Homework\HW3Extra\HW3Extra\bin\Debug\net6.0\HW3Extra.pdb
+D:\C#\Beetroot\Homework 3\Homework\HW3Extra\HW3Extra\obj\Debug\net6.0\HW3Extra.csproj.AssemblyReference.cache
+D:\C#\Beetroot\Homework 3\Homework\HW3Extra\HW3Extra\obj\Debug\net6.0\HW3Extra.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Beetroot\Homework 3\Homework\HW3Extra\HW3Extra\obj\Debug\net6.0\HW3Extra.AssemblyInfoInputs.cache
+D:\C#\Beetroot\Homework 3\Homework\HW3Extra\HW3Extra\obj\Debug\net6.0\HW3Extra.AssemblyInfo.cs
+D:\C#\Beetroot\Homework 3\Homework\HW3Extra\HW3Extra\obj\Debug\net6.0\HW3Extra.csproj.CoreCompileInputs.cache
+D:\C#\Beetroot\Homework 3\Homework\HW3Extra\HW3Extra\obj\Debug\net6.0\HW3Extra.dll
+D:\C#\Beetroot\Homework 3\Homework\HW3Extra\HW3Extra\obj\Debug\net6.0\refint\HW3Extra.dll
+D:\C#\Beetroot\Homework 3\Homework\HW3Extra\HW3Extra\obj\Debug\net6.0\HW3Extra.pdb
+D:\C#\Beetroot\Homework 3\Homework\HW3Extra\HW3Extra\obj\Debug\net6.0\HW3Extra.genruntimeconfig.cache
+D:\C#\Beetroot\Homework 3\Homework\HW3Extra\HW3Extra\obj\Debug\net6.0\ref\HW3Extra.dll
