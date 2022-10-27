@@ -4,28 +4,46 @@
     {
         static void Main(string[] args)
         {
-            const int X = 10;
-            const int Y = 10;
+           
+                Console.WriteLine("Enter X:");
+                string sX = Console.ReadLine();
+                Console.WriteLine("Enter Y:");
+                string sY = Console.ReadLine();
+
+            //const int X = 10;
+            //const int Y = 10;
+            int X = -1;
+            int Y = -1;
             int sum = 0;
 
-            if(X < Y)
+            if (int.TryParse(sX, out X) & int.TryParse(sY, out Y))
             {
-                for(int i = X; i <= Y; i++)
+                if (X < Y)
                 {
-                    sum += i;
+                    for (int i = X; i <= Y; i++)
+                    {
+                        sum += i;
+                    }
                 }
-            } else if (X > Y)
-            {
-                for(int i = Y; i <= X; i++)
+                else if (X > Y)
                 {
-                    sum += i;
+                    for (int i = Y; i <= X; i++)
+                    {
+                        sum += i;
+                    }
                 }
-            } else
+                else
+                {
+                    sum = X;
+                }
+                Console.WriteLine(sum);
+            }
+            else
             {
-                sum = X;
+                Console.WriteLine("Invalid input");
             }
 
-            Console.WriteLine(sum);
+            
         }
     }
 }
