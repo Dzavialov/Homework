@@ -10,6 +10,7 @@
             Console.WriteLine(TrySumIfOdd(11, 16, out sum));
             Console.WriteLine(MaxValue(10,1,2));
             Console.WriteLine(MinValue(10,20,0,50));
+            Console.WriteLine(Repeat("S", 1));
         }
 
         static int MaxValue(int value1, int value2)
@@ -88,6 +89,16 @@
                 return min1;
             }
             else return min2;
+        }
+
+        static string Repeat(string x, int n)
+        {
+            if(n != 1)
+            {
+                x += (Repeat(x, --n)); 
+            }
+            
+            return x;
         }
     }
 }
