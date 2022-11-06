@@ -36,13 +36,7 @@ namespace HW6
                     SelectionSort(array);
                     break;
                 case 3:
-                    //CoolSort(array);
-                    break;
-                case 4:
-                   // FastSort(array);
-                    break;
-                case 5:
-                   // MemoryEfficentSort(array);
+                    InsertionSort(array);
                     break;
             }
         }
@@ -83,10 +77,26 @@ namespace HW6
                 array[i] = k;
             }
             
-
             PrintArray(array);
         }
 
+        public static void InsertionSort(int[] array)
+        {
+            int key;
+            for(int i = 1; i < array.Length; i++)
+            {
+                key = array[i];
+                int j = i - 1;
+                while(j >= 0 && array[j] > key)
+                {
+                    array[j + 1] = array[j];
+                    j--;
+                }
+                array[j + 1] = key;
+            }
+
+            PrintArray(array);
+        }
         public static void PrintArray(int[] array)
         {
             foreach (int i in array)
