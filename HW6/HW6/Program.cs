@@ -2,6 +2,13 @@
 
 namespace HW6
 {
+
+    public enum SortAlgorithmType
+    {
+        BubbleSort,
+        SelectionSort,
+        InsertionSort
+    }
     internal class Program
     {
         static void Main(string[] args)
@@ -22,20 +29,20 @@ namespace HW6
             Console.WriteLine("Select the number of sorting algorithm:");
             Console.WriteLine("1 - Bubble Sort, 2 - Selection Sort, 3 - Insertion Sort");
             int number = int.Parse(Console.ReadLine());
-            Sort(array, number);
+            Sort(array, (SortAlgorithmType)number);
         }
 
-        public static void Sort(int[] array, int algorithm)
+        public static void Sort(int[] array, SortAlgorithmType algorithm)
         {
             switch (algorithm)
             {
-                case 1:
+                case SortAlgorithmType.BubbleSort:
                     BubbleSort(array);
                     break;
-                case 2:
+                case SortAlgorithmType.SelectionSort:
                     SelectionSort(array);
                     break;
-                case 3:
+                case SortAlgorithmType.InsertionSort:
                     InsertionSort(array);
                     break;
             }
