@@ -1,0 +1,15 @@
+D:\C#\Beetroot\Homework 3\Homework\HW6\HW6\bin\Debug\net6.0\HW6.exe
+D:\C#\Beetroot\Homework 3\Homework\HW6\HW6\bin\Debug\net6.0\HW6.deps.json
+D:\C#\Beetroot\Homework 3\Homework\HW6\HW6\bin\Debug\net6.0\HW6.runtimeconfig.json
+D:\C#\Beetroot\Homework 3\Homework\HW6\HW6\bin\Debug\net6.0\HW6.dll
+D:\C#\Beetroot\Homework 3\Homework\HW6\HW6\bin\Debug\net6.0\HW6.pdb
+D:\C#\Beetroot\Homework 3\Homework\HW6\HW6\obj\Debug\net6.0\HW6.csproj.AssemblyReference.cache
+D:\C#\Beetroot\Homework 3\Homework\HW6\HW6\obj\Debug\net6.0\HW6.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Beetroot\Homework 3\Homework\HW6\HW6\obj\Debug\net6.0\HW6.AssemblyInfoInputs.cache
+D:\C#\Beetroot\Homework 3\Homework\HW6\HW6\obj\Debug\net6.0\HW6.AssemblyInfo.cs
+D:\C#\Beetroot\Homework 3\Homework\HW6\HW6\obj\Debug\net6.0\HW6.csproj.CoreCompileInputs.cache
+D:\C#\Beetroot\Homework 3\Homework\HW6\HW6\obj\Debug\net6.0\HW6.dll
+D:\C#\Beetroot\Homework 3\Homework\HW6\HW6\obj\Debug\net6.0\refint\HW6.dll
+D:\C#\Beetroot\Homework 3\Homework\HW6\HW6\obj\Debug\net6.0\HW6.pdb
+D:\C#\Beetroot\Homework 3\Homework\HW6\HW6\obj\Debug\net6.0\HW6.genruntimeconfig.cache
+D:\C#\Beetroot\Homework 3\Homework\HW6\HW6\obj\Debug\net6.0\ref\HW6.dll
