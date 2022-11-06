@@ -1,4 +1,6 @@
-﻿namespace HW6
+﻿using System.Globalization;
+
+namespace HW6
 {
     internal class Program
     {
@@ -16,7 +18,6 @@
             Console.WriteLine();
             PrintArray(array);
             Console.WriteLine();
-            Console.WriteLine();
 
             Console.WriteLine("Select the number of sorting algorithm:");
             Console.WriteLine("1 - Bubble Sort, 2 - Selection Sort, 3 - Insertion Sort");
@@ -32,7 +33,7 @@
                     BubbleSort(array);
                     break;
                 case 2:
-                    //BinarySort(array);
+                    SelectionSort(array);
                     break;
                 case 3:
                     //CoolSort(array);
@@ -48,20 +49,40 @@
 
         public static void BubbleSort(int[] array)
         {
-            var k = 0;
-
             for (int m = 0; m < array.Length; m++)
             {
                 for (int i = 0; i < array.Length - 1; i++)
                 {
                     if (array[i] < array[i + 1])
                     {
-                        k = array[i];
+                        var k = array[i];
                         array[i] = array[i + 1];
                         array[i + 1] = k;
                     }
                 }
             }
+
+            PrintArray(array);
+        }
+
+        public static void SelectionSort(int[] array)
+        {         
+            for(int i = 0; i < array.Length - 1; i++)
+            {
+                var min = i;
+                for(int j = i + 1; j < array.Length; j++)
+                {
+                    if(array[j] < array[min])
+                    {
+                        min = j;
+                    }
+                }
+
+                var k = array[min];
+                array[min] = array[i];
+                array[i] = k;
+            }
+            
 
             PrintArray(array);
         }
