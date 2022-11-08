@@ -4,10 +4,10 @@
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine(Compare("abcdr", "abcda"));
-            //Console.WriteLine(Analyze("as4,;'i  "));
-            //Console.WriteLine(Sort("Hello"));
-            //Console.WriteLine(Duplicate("aaabccddddd"));
+            Console.WriteLine(Compare("abcdr", "abcda"));
+            Console.WriteLine(Analyze("as4,;'i  "));
+            Console.WriteLine(Sort("Hello"));
+            Console.WriteLine(Duplicate("aaabccddddd"));
 
             foreach(var i in Duplicate("aaabccddddd"))
             {
@@ -74,7 +74,6 @@
         static char[] Duplicate(string s)
         {
             string newStr = Sort(s).Replace(" ", String.Empty);
-            int cnt = 0;
             List<char> charsList = new List<char>(); 
             for(int i = 0; i < newStr.Length-1; i++)
             {
