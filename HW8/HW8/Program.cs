@@ -45,7 +45,10 @@
             int result = 0;
             for(int i = 0; i < s.Length; i++)
             {
-                result++;
+                if (char.IsNumber(s[i]) || char.IsLetter(s[i]) || char.IsSymbol(s[i]))
+                {
+                    result++;
+                }               
             }
             return result;
         }
