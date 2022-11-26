@@ -34,3 +34,5 @@ D:\C#\Beetroot\Homework 3\Homework\Text\Text\obj\Debug\net6.0\refint\Text.dll
 D:\C#\Beetroot\Homework 3\Homework\Text\Text\obj\Debug\net6.0\Text.pdb
 D:\C#\Beetroot\Homework 3\Homework\Text\Text\obj\Debug\net6.0\Text.genruntimeconfig.cache
 D:\C#\Beetroot\Homework 3\Homework\Text\Text\obj\Debug\net6.0\ref\Text.dll
+D:\C#\Beetroot\Homework 3\Homework\Text\Text\bin\Debug\net6.0\PNLibrary.dll
+D:\C#\Beetroot\Homework 3\Homework\Text\Text\bin\Debug\net6.0\PNLibrary.pdb
