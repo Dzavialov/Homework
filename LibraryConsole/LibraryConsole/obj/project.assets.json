@@ -38,6 +38,20 @@
         "runtime": {
           "bin/placeholder/Library.Entities.dll": {}
         }
+      },
+      "Library.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library.DataAccess": "1.0.0",
+          "Library.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Library.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Library.Service.dll": {}
+        }
       }
     }
   },
@@ -81,12 +95,16 @@
       "type": "project",
       "path": "../Library.Entities/Library.Entities.csproj",
       "msbuildProject": "../Library.Entities/Library.Entities.csproj"
+    },
+    "Library.Service/1.0.0": {
+      "type": "project",
+      "path": "../Library.Service/Library.Service.csproj",
+      "msbuildProject": "../Library.Service/Library.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Library.DataAccess >= 1.0.0",
-      "Library.Entities >= 1.0.0"
+      "Library.Service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -95,11 +113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\LibraryConsole\\LibraryConsole\\LibraryConsole.csproj",
+      "projectUniqueName": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\LibraryConsole\\LibraryConsole.csproj",
       "projectName": "LibraryConsole",
-      "projectPath": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\LibraryConsole\\LibraryConsole\\LibraryConsole.csproj",
+      "projectPath": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\LibraryConsole\\LibraryConsole.csproj",
       "packagesPath": "C:\\Users\\dimaz\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\LibraryConsole\\LibraryConsole\\obj\\",
+      "outputPath": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\LibraryConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dimaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -116,11 +134,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\LibraryConsole\\Library.DataAccess\\Library.DataAccess.csproj": {
-              "projectPath": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\LibraryConsole\\Library.DataAccess\\Library.DataAccess.csproj"
-            },
-            "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\LibraryConsole\\Library.Entities\\Library.Entities.csproj": {
-              "projectPath": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\LibraryConsole\\Library.Entities\\Library.Entities.csproj"
+            "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.Service\\Library.Service.csproj": {
+              "projectPath": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.Service\\Library.Service.csproj"
             }
           }
         }

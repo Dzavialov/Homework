@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5v2CJgrL+QnUTevI96Cu7rYno7Pjp979CRxuoGOx9A7Ck3KyQBSb8m33jmR+lizobFcBpjZ/FnRh2LbUVstGOw==",
+  "dgSpecHash": "yzaItsebwfFh+RUu8VFoisTNG43Drh0mwin8kb3U09x+UrtrdfcPyXMABcmG2ASN/mOi4MLD94lujVfhJk+4VQ==",
   "success": true,
-  "projectFilePath": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\LibraryConsole\\Library.DataAccess\\Library.DataAccess.csproj",
+  "projectFilePath": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.DataAccess\\Library.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dimaz\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
   ],

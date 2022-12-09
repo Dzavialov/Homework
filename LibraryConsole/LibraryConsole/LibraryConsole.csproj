@@ -8,8 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Library.DataAccess\Library.DataAccess.csproj" />
-    <ProjectReference Include="..\Library.Entities\Library.Entities.csproj" />
+    <ProjectReference Include="..\Library.Service\Library.Service.csproj" />
   </ItemGroup>
 
 </Project>
