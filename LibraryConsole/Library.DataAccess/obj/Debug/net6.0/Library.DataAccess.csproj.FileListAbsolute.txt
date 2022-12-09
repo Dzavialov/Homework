@@ -1,0 +1,15 @@
+D:\C#\Beetroot\Homework 3\HomeworkOOP\Homework\LibraryConsole\Library.DataAccess\bin\Debug\net6.0\Library.DataAccess.deps.json
+D:\C#\Beetroot\Homework 3\HomeworkOOP\Homework\LibraryConsole\Library.DataAccess\bin\Debug\net6.0\Library.DataAccess.dll
+D:\C#\Beetroot\Homework 3\HomeworkOOP\Homework\LibraryConsole\Library.DataAccess\bin\Debug\net6.0\Library.DataAccess.pdb
+D:\C#\Beetroot\Homework 3\HomeworkOOP\Homework\LibraryConsole\Library.DataAccess\bin\Debug\net6.0\Library.Entities.dll
+D:\C#\Beetroot\Homework 3\HomeworkOOP\Homework\LibraryConsole\Library.DataAccess\bin\Debug\net6.0\Library.Entities.pdb
+D:\C#\Beetroot\Homework 3\HomeworkOOP\Homework\LibraryConsole\Library.DataAccess\obj\Debug\net6.0\Library.DataAccess.csproj.AssemblyReference.cache
+D:\C#\Beetroot\Homework 3\HomeworkOOP\Homework\LibraryConsole\Library.DataAccess\obj\Debug\net6.0\Library.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Beetroot\Homework 3\HomeworkOOP\Homework\LibraryConsole\Library.DataAccess\obj\Debug\net6.0\Library.DataAccess.AssemblyInfoInputs.cache
+D:\C#\Beetroot\Homework 3\HomeworkOOP\Homework\LibraryConsole\Library.DataAccess\obj\Debug\net6.0\Library.DataAccess.AssemblyInfo.cs
+D:\C#\Beetroot\Homework 3\HomeworkOOP\Homework\LibraryConsole\Library.DataAccess\obj\Debug\net6.0\Library.DataAccess.csproj.CoreCompileInputs.cache
+D:\C#\Beetroot\Homework 3\HomeworkOOP\Homework\LibraryConsole\Library.DataAccess\obj\Debug\net6.0\Library.DataAccess.csproj.CopyComplete
+D:\C#\Beetroot\Homework 3\HomeworkOOP\Homework\LibraryConsole\Library.DataAccess\obj\Debug\net6.0\Library.DataAccess.dll
+D:\C#\Beetroot\Homework 3\HomeworkOOP\Homework\LibraryConsole\Library.DataAccess\obj\Debug\net6.0\refint\Library.DataAccess.dll
+D:\C#\Beetroot\Homework 3\HomeworkOOP\Homework\LibraryConsole\Library.DataAccess\obj\Debug\net6.0\Library.DataAccess.pdb
+D:\C#\Beetroot\Homework 3\HomeworkOOP\Homework\LibraryConsole\Library.DataAccess\obj\Debug\net6.0\ref\Library.DataAccess.dll
