@@ -14,6 +14,7 @@ namespace Library.Service
         {
             var libraryRepo = new Repository<LibraryEntity>();
             Console.WriteLine("Enter libary name:");
+            
             string name = Console.ReadLine();
             LibraryEntity library = new LibraryEntity
             {
@@ -33,15 +34,29 @@ namespace Library.Service
         public static void AddBook()
         {
             var bookRepo = new Repository<BookEntity>();
-            Console.WriteLine("Choose library id:");
+            Console.WriteLine("Choose library Id:");
             PrintLibraries();
-            int libId = int.Parse(Console.ReadLine());
+            int libId;
+            if(int.TryParse(Console.ReadLine(), out libId) == false){
+                throw new InvalidLibraryIdFormat();
+            }
+
             Console.WriteLine("Enter book title:");
             string title = Console.ReadLine();
+
             Console.WriteLine("Enter book author:");
             string author = Console.ReadLine();
+            if (author.Any(char.IsDigit))
+            {
+                throw new InvalidBookAuthorFormat();
+            }
+            
             Console.WriteLine("Enter year when book was published:");
-            int year = int.Parse(Console.ReadLine());
+            int year;
+            if(int.TryParse(Console.ReadLine(), out year) == false || year > DateTime.Today.Year)
+            {
+                throw new InvalidBookYearFormat();
+            }
 
             BookEntity book = new BookEntity
             {
@@ -53,14 +68,18 @@ namespace Library.Service
 
             bookRepo.Insert(book);
 
-            Console.WriteLine($"Book: \"{book.Title}\", author: {book.Author}, year: {book.Year}, library with id: {book.LibraryId}");
+            Console.WriteLine($"Book: \"{book.Title}\", author: {book.Author}, year: {book.Year}, was added to library with id: {book.LibraryId}");
         }
         public static void PrintBooks()
         {
             var library = new LibraryEntity();
             Console.WriteLine("Enter library Id:");
             PrintLibraries();
-            int libId = int.Parse(Console.ReadLine());
+            int libId;
+            if (int.TryParse(Console.ReadLine(), out libId) == false)
+            {
+                throw new InvalidLibraryIdFormat();
+            }
             foreach (var book in new Repository<BookEntity>().GetAll().Where(bk => bk.LibraryId == libId))
             {
                 Console.WriteLine($"Book id: {book.Id}, book title: {book.Title}, book author: {book.Author}, " +
