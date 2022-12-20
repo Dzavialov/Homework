@@ -1,0 +1,15 @@
+C:\C#\Homework\StackGeneric\StackGeneric\obj\Debug\net6.0\StackGeneric.csproj.AssemblyReference.cache
+C:\C#\Homework\StackGeneric\StackGeneric\obj\Debug\net6.0\StackGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Homework\StackGeneric\StackGeneric\obj\Debug\net6.0\StackGeneric.AssemblyInfoInputs.cache
+C:\C#\Homework\StackGeneric\StackGeneric\obj\Debug\net6.0\StackGeneric.AssemblyInfo.cs
+C:\C#\Homework\StackGeneric\StackGeneric\obj\Debug\net6.0\StackGeneric.csproj.CoreCompileInputs.cache
+C:\C#\Homework\StackGeneric\StackGeneric\bin\Debug\net6.0\StackGeneric.exe
+C:\C#\Homework\StackGeneric\StackGeneric\bin\Debug\net6.0\StackGeneric.deps.json
+C:\C#\Homework\StackGeneric\StackGeneric\bin\Debug\net6.0\StackGeneric.runtimeconfig.json
+C:\C#\Homework\StackGeneric\StackGeneric\bin\Debug\net6.0\StackGeneric.dll
+C:\C#\Homework\StackGeneric\StackGeneric\bin\Debug\net6.0\StackGeneric.pdb
+C:\C#\Homework\StackGeneric\StackGeneric\obj\Debug\net6.0\StackGeneric.dll
+C:\C#\Homework\StackGeneric\StackGeneric\obj\Debug\net6.0\refint\StackGeneric.dll
+C:\C#\Homework\StackGeneric\StackGeneric\obj\Debug\net6.0\StackGeneric.pdb
+C:\C#\Homework\StackGeneric\StackGeneric\obj\Debug\net6.0\StackGeneric.genruntimeconfig.cache
+C:\C#\Homework\StackGeneric\StackGeneric\obj\Debug\net6.0\ref\StackGeneric.dll
