@@ -1,10 +1,14 @@
-﻿namespace VotingApp
+﻿using Vote.Service;
+
+namespace VotingApp
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            VoteService.NewLoginInApplication();
+
+            Console.ReadKey();
         }
     }
 }

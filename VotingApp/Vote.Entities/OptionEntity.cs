@@ -2,8 +2,9 @@
 
 namespace Vote.Entities
 {
-    internal class OptionEntity : BaseEntity
+    public class OptionEntity : BaseEntity
     {
         public string OptionDescription { get; set; }
+        public int TopicId { get; set; }
     }
 }

@@ -1,9 +1,9 @@
 ﻿namespace Vote.DataAccess
 {
-    internal interface IRepository<TEntity>
+    public interface IRepository<TEntity>
     {
         IList<TEntity> GetAll();
-        TEntity Get();
-        void Insert(TEntity entity);
+        TEntity Get(int id);
+        void Create(TEntity entity);
     }
 }

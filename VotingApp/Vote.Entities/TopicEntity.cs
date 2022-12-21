@@ -2,9 +2,9 @@
 
 namespace Vote.Entities
 {
-    internal class TopicEntity : BaseEntity
+    public class TopicEntity : BaseEntity
     {
         public string TopicName { get; set; }
-        public int OptionId { get; set; }
+        public int UserId { get; set; }
     }
 }
