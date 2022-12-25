@@ -179,12 +179,10 @@ namespace Vote.Service
         public static void ResultByTopic()
         {
             Repository<UserEntity> userRepo = new Repository<UserEntity>();
-            Repository<TopicEntity> topicRepo = new Repository<TopicEntity>();
 
             ViewAllTopics();
             Console.WriteLine("Select topic number:");
             int topicNumber = int.Parse(Console.ReadLine());
-            var topicRecords = topicRepo.Get(topicNumber);
             var userLocal = userRepo.GetAll();
 
             foreach (var x in userLocal)
