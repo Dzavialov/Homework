@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XMeVQYmu1hP9BxQd91VaaTxLjiCgQNf1K2AAR7iEi3fvVnlTFETJ3tRll1Owqg4ikYiiwCgwnVLYCTaZWMsMaQ==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\Homework17Collections\\VotingApp\\Vote.Entities\\Vote.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2022\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

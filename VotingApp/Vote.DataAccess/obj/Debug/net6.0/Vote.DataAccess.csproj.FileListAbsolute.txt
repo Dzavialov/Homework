@@ -1,0 +1,12 @@
+C:\C#\Homework17Collections\VotingApp\Vote.DataAccess\bin\Debug\net6.0\Vote.DataAccess.deps.json
+C:\C#\Homework17Collections\VotingApp\Vote.DataAccess\bin\Debug\net6.0\Vote.DataAccess.dll
+C:\C#\Homework17Collections\VotingApp\Vote.DataAccess\bin\Debug\net6.0\Vote.DataAccess.pdb
+C:\C#\Homework17Collections\VotingApp\Vote.DataAccess\obj\Debug\net6.0\Vote.DataAccess.csproj.AssemblyReference.cache
+C:\C#\Homework17Collections\VotingApp\Vote.DataAccess\obj\Debug\net6.0\Vote.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Homework17Collections\VotingApp\Vote.DataAccess\obj\Debug\net6.0\Vote.DataAccess.AssemblyInfoInputs.cache
+C:\C#\Homework17Collections\VotingApp\Vote.DataAccess\obj\Debug\net6.0\Vote.DataAccess.AssemblyInfo.cs
+C:\C#\Homework17Collections\VotingApp\Vote.DataAccess\obj\Debug\net6.0\Vote.DataAccess.csproj.CoreCompileInputs.cache
+C:\C#\Homework17Collections\VotingApp\Vote.DataAccess\obj\Debug\net6.0\Vote.DataAccess.dll
+C:\C#\Homework17Collections\VotingApp\Vote.DataAccess\obj\Debug\net6.0\refint\Vote.DataAccess.dll
+C:\C#\Homework17Collections\VotingApp\Vote.DataAccess\obj\Debug\net6.0\Vote.DataAccess.pdb
+C:\C#\Homework17Collections\VotingApp\Vote.DataAccess\obj\Debug\net6.0\ref\Vote.DataAccess.dll
