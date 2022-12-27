@@ -1,0 +1,249 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\LibraryConsole\\LibraryConsole.csproj": {}
+  },
+  "projects": {
+    "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.DataAccess\\Library.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.DataAccess\\Library.DataAccess.csproj",
+        "projectName": "Library.DataAccess",
+        "projectPath": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.DataAccess\\Library.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\dimaz\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dimaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.Entities\\Library.Entities.csproj": {
+                "projectPath": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.Entities\\Library.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.Entities\\Library.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.Entities\\Library.Entities.csproj",
+        "projectName": "Library.Entities",
+        "projectPath": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.Entities\\Library.Entities.csproj",
+        "packagesPath": "C:\\Users\\dimaz\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dimaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.Service\\Library.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.Service\\Library.Service.csproj",
+        "projectName": "Library.Service",
+        "projectPath": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.Service\\Library.Service.csproj",
+        "packagesPath": "C:\\Users\\dimaz\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dimaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.DataAccess\\Library.DataAccess.csproj": {
+                "projectPath": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.DataAccess\\Library.DataAccess.csproj"
+              },
+              "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.Entities\\Library.Entities.csproj": {
+                "projectPath": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.Entities\\Library.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\LibraryConsole\\LibraryConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\LibraryConsole\\LibraryConsole.csproj",
+        "projectName": "LibraryConsole",
+        "projectPath": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\LibraryConsole\\LibraryConsole.csproj",
+        "packagesPath": "C:\\Users\\dimaz\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\LibraryConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dimaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.Service\\Library.Service.csproj": {
+                "projectPath": "D:\\C#\\Beetroot\\Homework 3\\HomeworkOOP\\Homework\\Homework\\LibraryConsole\\Library.Service\\Library.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
