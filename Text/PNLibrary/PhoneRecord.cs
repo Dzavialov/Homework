@@ -1,6 +1,8 @@
-﻿namespace Text
+﻿using PNLibrary;
+
+namespace Text
 {
-    class PhoneRecord
+    public class PhoneRecord
     {
         public string FirstName { get; set; }
 
@@ -24,34 +26,28 @@
 
         private string ReadStringFromConsole(string messageText)
         {
-            do
-            {
-                Console.WriteLine(messageText);
+            Console.WriteLine(messageText);
 
-                var input = Console.ReadLine();
+            var input = Console.ReadLine();
 
-                if (!string.IsNullOrWhiteSpace(input))
-                    return input.Trim();
-                else
-                    continue;
-            } while (true);
+            if (!string.IsNullOrWhiteSpace(input))
+                return input.Trim();
+            else
+                throw new InvalidNameFormat();
         }
 
         private string ReadPhoneNumberFromConsole(string messageText)
         {
-            do
-            {
-                Console.WriteLine(messageText);
+            Console.WriteLine(messageText);
 
-                var input = Console.ReadLine();
+            var input = Console.ReadLine();
 
-                if (!string.IsNullOrWhiteSpace(input)
-                    && input.Trim().Length == 12
-                    && input.ToList().All(symbol => char.IsNumber(symbol)))
-                    return input.Trim();
-                else
-                    continue;
-            } while (true);
+            if (!string.IsNullOrWhiteSpace(input)
+                && input.Trim().Length == 12
+                && input.ToList().All(symbol => char.IsNumber(symbol)))
+                return input.Trim();
+            else
+                throw new InvalidPhoneNumberFormat();
         }
     }
 }

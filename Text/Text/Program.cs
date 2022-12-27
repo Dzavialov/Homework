@@ -1,5 +1,6 @@
 ﻿using RandomNameGeneratorLibrary;
 using System.Reflection.Emit;
+using PNLibrary;
 
 namespace Text
 {
@@ -13,7 +14,7 @@ namespace Text
 
                 string input = Console.ReadLine();
 
-                var storage = new PhonesStorage();
+                PhonesStorage storage = new PhonesStorage();
                 
                 
                 switch (input)
@@ -28,7 +29,15 @@ namespace Text
                         storage.PrintAll();
                         break;
                     case "-e":
-                        storage.Edit(int.Parse(Console.ReadLine()));
+                        try
+                        {
+                            storage.Edit(int.Parse(Console.ReadLine()));
+                        }
+                        catch (InvalidPhoneNumberFormat e)
+                        {
+                            Console.WriteLine("You entered phone number with wrong format");
+                        }
+                        
                         break;
                     case "-out":
                         goto Exit;

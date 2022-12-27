@@ -1,8 +1,10 @@
-﻿namespace Text
+﻿using PNLibrary;
+
+namespace Text
 {
-    class PhonesStorage
+    public class PhonesStorage
     {
-        private readonly string DbFilePath = @"C:\PhoneDbFolder\phonedb.csv";
+        private readonly string DbFilePath = @"C:\PhoneDbFolder\phonedb.txt";
         private readonly char ColumnSeparator = ',';
 
         public PhonesStorage()
@@ -105,10 +107,7 @@
         {
             if (!File.Exists(DbFilePath))
             {
-                using (File.Create(DbFilePath))
-                {
-
-                }
+                throw new DbFileNotFoundException();
             }
         }
     }
