@@ -1,0 +1,36 @@
+C:\Users\docto\source\repos\Text\Text\bin\Debug\net6.0\Text.exe
+C:\Users\docto\source\repos\Text\Text\bin\Debug\net6.0\Text.deps.json
+C:\Users\docto\source\repos\Text\Text\bin\Debug\net6.0\Text.runtimeconfig.json
+C:\Users\docto\source\repos\Text\Text\bin\Debug\net6.0\Text.dll
+C:\Users\docto\source\repos\Text\Text\bin\Debug\net6.0\Text.pdb
+C:\Users\docto\source\repos\Text\Text\obj\Debug\net6.0\Text.csproj.AssemblyReference.cache
+C:\Users\docto\source\repos\Text\Text\obj\Debug\net6.0\Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\docto\source\repos\Text\Text\obj\Debug\net6.0\Text.AssemblyInfoInputs.cache
+C:\Users\docto\source\repos\Text\Text\obj\Debug\net6.0\Text.AssemblyInfo.cs
+C:\Users\docto\source\repos\Text\Text\obj\Debug\net6.0\Text.csproj.CoreCompileInputs.cache
+C:\Users\docto\source\repos\Text\Text\obj\Debug\net6.0\Text.dll
+C:\Users\docto\source\repos\Text\Text\obj\Debug\net6.0\refint\Text.dll
+C:\Users\docto\source\repos\Text\Text\obj\Debug\net6.0\Text.pdb
+C:\Users\docto\source\repos\Text\Text\obj\Debug\net6.0\Text.genruntimeconfig.cache
+C:\Users\docto\source\repos\Text\Text\obj\Debug\net6.0\ref\Text.dll
+C:\Users\docto\source\repos\Text\Text\bin\Debug\net6.0\RandomNameGeneratorLibrary.dll
+C:\Users\docto\source\repos\Text\Text\obj\Debug\net6.0\Text.csproj.CopyComplete
+C:\Users\docto\source\repos\Text\Text\bin\Debug\net6.0\ReadLine.dll
+D:\C#\Beetroot\Homework 3\Homework\Text\Text\bin\Debug\net6.0\Text.exe
+D:\C#\Beetroot\Homework 3\Homework\Text\Text\bin\Debug\net6.0\Text.deps.json
+D:\C#\Beetroot\Homework 3\Homework\Text\Text\bin\Debug\net6.0\Text.runtimeconfig.json
+D:\C#\Beetroot\Homework 3\Homework\Text\Text\bin\Debug\net6.0\Text.dll
+D:\C#\Beetroot\Homework 3\Homework\Text\Text\bin\Debug\net6.0\Text.pdb
+D:\C#\Beetroot\Homework 3\Homework\Text\Text\bin\Debug\net6.0\RandomNameGeneratorLibrary.dll
+D:\C#\Beetroot\Homework 3\Homework\Text\Text\bin\Debug\net6.0\ReadLine.dll
+D:\C#\Beetroot\Homework 3\Homework\Text\Text\obj\Debug\net6.0\Text.csproj.AssemblyReference.cache
+D:\C#\Beetroot\Homework 3\Homework\Text\Text\obj\Debug\net6.0\Text.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Beetroot\Homework 3\Homework\Text\Text\obj\Debug\net6.0\Text.AssemblyInfoInputs.cache
+D:\C#\Beetroot\Homework 3\Homework\Text\Text\obj\Debug\net6.0\Text.AssemblyInfo.cs
+D:\C#\Beetroot\Homework 3\Homework\Text\Text\obj\Debug\net6.0\Text.csproj.CoreCompileInputs.cache
+D:\C#\Beetroot\Homework 3\Homework\Text\Text\obj\Debug\net6.0\Text.csproj.CopyComplete
+D:\C#\Beetroot\Homework 3\Homework\Text\Text\obj\Debug\net6.0\Text.dll
+D:\C#\Beetroot\Homework 3\Homework\Text\Text\obj\Debug\net6.0\refint\Text.dll
+D:\C#\Beetroot\Homework 3\Homework\Text\Text\obj\Debug\net6.0\Text.pdb
+D:\C#\Beetroot\Homework 3\Homework\Text\Text\obj\Debug\net6.0\Text.genruntimeconfig.cache
+D:\C#\Beetroot\Homework 3\Homework\Text\Text\obj\Debug\net6.0\ref\Text.dll
