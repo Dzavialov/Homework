@@ -13,5 +13,7 @@ namespace EF.Enitites
         public int PhoneNumber { get; set; }
         [MaxLength(256)]
         public string Email { get; set; }
+        public ICollection<Orders> Orders { get; set; }
+
     }
 }

@@ -1,0 +1,14 @@
+C:\C#\EF Homework\Homework\EF Homework\EF.Enitites\bin\Debug\net6.0\EF.Enitites.deps.json
+C:\C#\EF Homework\Homework\EF Homework\EF.Enitites\bin\Debug\net6.0\EF.Enitites.runtimeconfig.json
+C:\C#\EF Homework\Homework\EF Homework\EF.Enitites\bin\Debug\net6.0\EF.Enitites.dll
+C:\C#\EF Homework\Homework\EF Homework\EF.Enitites\bin\Debug\net6.0\EF.Enitites.pdb
+C:\C#\EF Homework\Homework\EF Homework\EF.Enitites\obj\Debug\net6.0\EF.Enitites.csproj.AssemblyReference.cache
+C:\C#\EF Homework\Homework\EF Homework\EF.Enitites\obj\Debug\net6.0\EF.Enitites.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\EF Homework\Homework\EF Homework\EF.Enitites\obj\Debug\net6.0\EF.Enitites.AssemblyInfoInputs.cache
+C:\C#\EF Homework\Homework\EF Homework\EF.Enitites\obj\Debug\net6.0\EF.Enitites.AssemblyInfo.cs
+C:\C#\EF Homework\Homework\EF Homework\EF.Enitites\obj\Debug\net6.0\EF.Enitites.csproj.CoreCompileInputs.cache
+C:\C#\EF Homework\Homework\EF Homework\EF.Enitites\obj\Debug\net6.0\EF.Enitites.dll
+C:\C#\EF Homework\Homework\EF Homework\EF.Enitites\obj\Debug\net6.0\refint\EF.Enitites.dll
+C:\C#\EF Homework\Homework\EF Homework\EF.Enitites\obj\Debug\net6.0\EF.Enitites.pdb
+C:\C#\EF Homework\Homework\EF Homework\EF.Enitites\obj\Debug\net6.0\EF.Enitites.genruntimeconfig.cache
+C:\C#\EF Homework\Homework\EF Homework\EF.Enitites\obj\Debug\net6.0\ref\EF.Enitites.dll

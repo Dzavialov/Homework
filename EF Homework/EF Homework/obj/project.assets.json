@@ -1155,6 +1155,20 @@
             "rid": "win"
           }
         }
+      },
+      "EF.Enitites/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.2",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.2"
+        },
+        "compile": {
+          "bin/placeholder/EF.Enitites.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EF.Enitites.dll": {}
+        }
       }
     }
   },
@@ -3500,10 +3514,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "EF.Enitites/1.0.0": {
+      "type": "project",
+      "path": "../EF.Enitites/EF.Enitites.csproj",
+      "msbuildProject": "../EF.Enitites/EF.Enitites.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "EF.Enitites >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.2",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.2",
@@ -3536,7 +3556,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\C#\\EF Homework\\Homework\\EF Homework\\EF.Enitites\\EF.Enitites.csproj": {
+              "projectPath": "C:\\C#\\EF Homework\\Homework\\EF Homework\\EF.Enitites\\EF.Enitites.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
