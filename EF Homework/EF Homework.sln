@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF Homework", "EF Homework\EF Homework.csproj", "{59B5BAF8-4D3F-419F-AB91-AA0E1BDF2294}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF.Enitites", "EF.Enitites\EF.Enitites.csproj", "{398F6CD8-3702-487F-AD0A-AFC39E484297}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59B5BAF8-4D3F-419F-AB91-AA0E1BDF2294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B5BAF8-4D3F-419F-AB91-AA0E1BDF2294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B5BAF8-4D3F-419F-AB91-AA0E1BDF2294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B5BAF8-4D3F-419F-AB91-AA0E1BDF2294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{398F6CD8-3702-487F-AD0A-AFC39E484297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398F6CD8-3702-487F-AD0A-AFC39E484297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398F6CD8-3702-487F-AD0A-AFC39E484297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398F6CD8-3702-487F-AD0A-AFC39E484297}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {296214ED-F59C-4BC7-A26D-15506F30A598}
+	EndGlobalSection
+EndGlobal
