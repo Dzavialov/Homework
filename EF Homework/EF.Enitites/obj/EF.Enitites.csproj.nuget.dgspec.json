@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\EF Homework\\Homework\\EF Homework\\EF Homework\\EF Homework.csproj": {}
+    "C:\\C#\\EF Homework\\Homework\\EF Homework\\EF.Enitites\\EF.Enitites.csproj": {}
   },
   "projects": {
-    "C:\\C#\\EF Homework\\Homework\\EF Homework\\EF Homework\\EF Homework.csproj": {
+    "C:\\C#\\EF Homework\\Homework\\EF Homework\\EF.Enitites\\EF.Enitites.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\EF Homework\\Homework\\EF Homework\\EF Homework\\EF Homework.csproj",
-        "projectName": "EF Homework",
-        "projectPath": "C:\\C#\\EF Homework\\Homework\\EF Homework\\EF Homework\\EF Homework.csproj",
+        "projectUniqueName": "C:\\C#\\EF Homework\\Homework\\EF Homework\\EF.Enitites\\EF.Enitites.csproj",
+        "projectName": "EF.Enitites",
+        "projectPath": "C:\\C#\\EF Homework\\Homework\\EF Homework\\EF.Enitites\\EF.Enitites.csproj",
         "packagesPath": "C:\\Users\\2022\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\EF Homework\\Homework\\EF Homework\\EF Homework\\obj\\",
+        "outputPath": "C:\\C#\\EF Homework\\Homework\\EF Homework\\EF.Enitites\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\2022\\AppData\\Roaming\\NuGet\\NuGet.Config",
