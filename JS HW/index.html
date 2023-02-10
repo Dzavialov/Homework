@@ -22,42 +22,45 @@
 
 <body>
     <div class="wrapper mt-lg-5">
+        
         <div class="sidebar-wrapper">
             <div class="profile-container">
                 <img class="profile" src="assets/images/pfp.jpg" alt="" />
                 <h1 class="name">Dmytro Zavialov</h1>
                 <h3 class="tagline">Back end developer</h3>
+                <button id="btn">Hide Information</button>
             </div><!--//profile-container-->
-            
-            <div class="contact-container container-block">
-                <ul class="list-unstyled contact-list">
-                    <li class="email"><i class="fa-solid fa-envelope"></i><a href="mailto: yourname@email.com">dmytro.zavialov@website.com</a></li>
-                    <li class="phone"><i class="fa-solid fa-phone"></i><a href="tel:0123 456 789">0123 456 789</a></li>
-                    <li class="github"><i class="fa-brands fa-github"></i><a href="https://github.com/Dzavialov" target="_blank">Github</a></li>
-                </ul>
-            </div><!--//contact-container-->
+            <div>
+                <div class="contact-container container-block">
+                    <ul class="list-unstyled contact-list">
+                        <li class="email"><i class="fa-solid fa-envelope"></i><a href="mailto: yourname@email.com">dmytro.zavialov@website.com</a></li>
+                        <li class="phone"><i class="fa-solid fa-phone"></i><a href="tel:0123 456 789">0123 456 789</a></li>
+                        <li class="github"><i class="fa-brands fa-github"></i><a href="https://github.com/Dzavialov" target="_blank">Github</a></li>
+                    </ul>
+                </div><!--//contact-container-->
 
-            <div class="languages-container container-block">
-                <h2 class="container-block-title">Languages</h2>
-                <ul class="list-unstyled interests-list">
-                    <li>Ukrainian <span class="lang-desc">(Native)</span></li>
-                    <li>Russian <span class="lang-desc">(Professional)</span></li>
-                    <li>English <span class="lang-desc">(Professional)</span></li>
-                </ul>
-            </div><!--//interests-->
-            
-            <div class="interests-container container-block">
-                <h2 class="container-block-title">Interests</h2>
-                <ul class="list-unstyled interests-list">
-                    <li>Cycling</li>
-                    <li>Hiking/Camping</li>
-                    <li>Cooking</li>
-                </ul>
-            </div><!--//interests-->
-            
+                <div class="languages-container container-block">
+                    <h2 class="container-block-title">Languages</h2>
+                    <ul class="list-unstyled interests-list">
+                        <li>Ukrainian <span class="lang-desc">(Native)</span></li>
+                        <li>Russian <span class="lang-desc">(Professional)</span></li>
+                        <li>English <span class="lang-desc">(Professional)</span></li>
+                    </ul>
+                </div><!--//interests-->
+                
+                <div class="interests-container container-block">
+                    <h2 class="container-block-title">Interests</h2>
+                    <ul class="list-unstyled interests-list">
+                        <li>Cycling</li>
+                        <li>Hiking/Camping</li>
+                        <li>Cooking</li>
+                    </ul>
+                </div><!--//interests-->
+                </div>
         </div><!--//sidebar-wrapper-->
         
-        <div class="main-wrapper">
+        
+        <div class="main-wrapper" id="info">
             
             <section class="section summary-section">
                 <h2 class="section-title"><span class="icon-holder"><i class="fa-solid fa-user"></i></span>About me</h2>
@@ -67,7 +70,8 @@
                     </p>
                 </div><!--//summary-->
             </section><!--//section-->
-                        
+                    
+
             <section class="skills-section section">
                 <h2 class="section-title"><span class="icon-holder"><i class="fa-solid fa-rocket"></i></span>Skills &amp; Proficiency</h2>
                 <div class="skillset">        
@@ -109,7 +113,10 @@
             </section><!--//skills-section-->
             
         </div><!--//main-body-->
-    </div>        
+    </div>     
+
+    
 </body>
+<script src='script.js'></script>
 </html> 
 

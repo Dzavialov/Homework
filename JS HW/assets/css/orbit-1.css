@@ -19,6 +19,15 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
 
+#info {
+  opacity: 1;
+  transition: opacity 1s; 
+}
+
+#info.fade {
+  opacity: 0;
+}
+
 a {
   color: #2d7788;
   text-decoration: none;
